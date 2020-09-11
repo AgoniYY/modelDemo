@@ -5,7 +5,7 @@
 ## Build Setup
 
  modelDemo
- [demo](http://htmlpreview.github.io/?https://agoniyy.github.io/modelDemo/)
+ [demo](http://agoniyy.github.io/?https://agoniyy.github.io/modelDemo/)
 
 ``` bash
 # install dependencies
